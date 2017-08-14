@@ -1,0 +1,28 @@
+.navbar {
+    margin-bottom:0 !important;
+    border:0 !important;
+
+}
+
+.jumbotron {
+    background: #e7e7e7 !important;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 50px;
+}
+
+@keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/*This needs to be changed*/
+.pullRight {
+    margin-left: 640px !important;
+}
+
+.container {
+    margin-right: 0px !important;
+}
